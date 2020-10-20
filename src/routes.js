@@ -2,6 +2,7 @@
 import HomePage from './pages/homepage';
 import Page1 from './pages/page1';
 import AxiosPage from './pages/axiospage';
+import AntdTable from './pages/antdtable';
 
 const routes = [
     {
@@ -16,6 +17,10 @@ const routes = [
     {
         path:'/axiospage',
         component:AxiosPage
+    },
+    {
+        path:'/antdtable',
+        component:AntdTable
     }
 ];
 
