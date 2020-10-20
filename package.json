@@ -86,6 +86,8 @@
   },
   "devDependencies": {
     "axios": "^0.20.0",
+    "less": "^3.12.2",
+    "less-loader": "^7.0.2",
     "mockjs": "^1.1.0",
     "react-router": "^5.2.0",
     "react-router-config": "^5.1.1",
